@@ -1,4 +1,4 @@
-# Clase 13
+# Clase 12
 
 Te han contratado en Saman-Train🚉, esta línea compañía desea llevar el control de las horas de su personal para su respectivo pago; para esto, una vez que el personal se presta a dar servicio, se toman los siguientes datos: nombre, cédula del personal, tipo de tren Supersónico o Carbón, y el número de horas de trabajo. Dependiendo de las horas se les paga al personal.
 
